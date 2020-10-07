@@ -1,0 +1,38 @@
+{
+  "name": "delphinium",
+  "version": "1.0.0",
+  "description": "An open sourced Discord self-bot project",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Delphinium Dev Team",
+  "license": "ISC",
+  "dependencies": {
+    "4anime-scraper": "^1.0.2",
+    "@discordjs/uws": "^10.149.0",
+    "@hkh12/node-calc": "^4.0.3",
+    "countdown": "^2.6.0",
+    "dabi-images": "^2.7.5",
+    "discord.js": "^11.6.4",
+    "figlet": "^1.4.0",
+    "google-tts-api": "0.0.4",
+    "image-data-uri": "^2.0.1",
+    "jimp": "^0.13.0",
+    "memejs": "^1.2.3",
+    "minisweeper": "^1.0.6",
+    "moment": "^2.26.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "node-osu": "^2.2.0",
+    "owoifyx": "^1.0.1",
+    "relevant-urban": "^2.0.0",
+    "request": "^2.88.2",
+    "rover-api": "^1.1.0",
+    "superagent": "^5.3.1",
+    "text-to-image": "^2.3.0",
+    "word-definition": "^2.1.6"
+  }
+}
