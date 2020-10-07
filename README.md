@@ -1,93 +1,93 @@
-# Delphinium
-Delphinium is an Selfbot for Discord.
-It is still in very early stages of Developement so you will encounter alot of bugs, please report bugs or suggest new features in our Discord Server (https://discord.gg/ue9gRSP)
+# Ripna
+Ripna is an Selfbot for Discord.
+Please report bugs or suggest new features in our Discord Server (https://discord.gg/AENBwen)
 
 # How to install
-Here is an [Youtube Video](https://www.youtube.com/watch?v=LJESgpiMO54)
+Download all files then run npm i or npm install
 
 # Commands
-%logger [ON/OFF]
+rlogger [ON/OFF]
 
-%safemode [ON/OFF]
+rsafemode [ON/OFF]
 
-%embedmode [ON/OFF]
+rembedmode [ON/OFF]
 
-%gray [Image]
+rgray [Image]
 
-%halftoken [Mention]
+rhalftoken [Mention]
 
-%roblox [Mention]
+rroblox [Mention]
 
-%image [Text]
+rimage [Text]
 
-%ascii [Text]
+rascii [Text]
 
-%fancy [Text]
+rfancy [Text]
 
-%bold [Text]
+rbold [Text]
 
-%speak [Text]
+rspeak [Text]
 
-%lyrics [Song Name]
+rlyrics [Song Name]
 
-%giveaway-snipe [ON/OFF]
+rgiveaway-snipe [ON/OFF]
 
-%nitro-snipe [ON/OFF]
+rnitro-snipe [ON/OFF]
 
-%email [toggle/generate/remove]
+remail [toggle/generate/remove]
 
-%uinfo [Mention]
+ruinfo [Mention]
 
-%copydiscord
+rcopydiscord
 
-%embed [Text]
+rembed [Text]
 
-%steal-pfp [Mention]
+rsteal-pfp [Mention]
 
-%suicide
+rsuicide
 
-%playing [Text]
+rplaying [Text]
 
-%streaming [Text]
+rstreaming [Text]
 
-%listening [Text]
+rlistening [Text]
 
-%watching [Text]
+rwatching [Text]
 
-%trap
+rtrap
 
-%solo
+rsolo
 
-%hentai
+rhentai
 
-%kiss [Mention]
+rkiss [Mention]
 
-%hug [Mention]
+rhug [Mention]
 
-%fuck [Mention]
+rfuck [Mention]
 
-%pp [Mention]
+rpp [Mention]
 
-%randomnum
+rrandomnum
 
-%bravery
+rbravery
 
-%brilliance
+rbrilliance
 
-%balance
+rbalance
 
-%eval [Code]
+reval [Code]
 
-%servroles
+rservroles
 
-%contactme
+rcontactme
 
-%massban
+rmassban
 
-%massunban
+rmassunban
 
-%massmute
+rmassmute
 
-%massunmute
+rmassunmute
 
-%masskick
+rmasskick
