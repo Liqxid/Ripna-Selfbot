@@ -1,93 +1,93 @@
-Ripna
-Ripna is an Selfbot for Discord. Please report bugs or suggest new features in our Discord Server (https://discord.gg/AENBwen)
-this is not our fault if your account gets disabled.
+# Delphinium
+Delphinium is an Selfbot for Discord.
+It is still in very early stages of Developement so you will encounter alot of bugs, please report bugs or suggest new features in our Discord Server (https://discord.gg/ue9gRSP)
 
-How to install
-Download all the files uploaded then rune npm i or npm install and let the files install. Any Issues Let Us Know!
+# How to install
+Here is an [Youtube Video](https://www.youtube.com/watch?v=LJESgpiMO54)
 
-Commands
-rlogger [ON/OFF]
+# Commands
+%logger [ON/OFF]
 
-rsafemode [ON/OFF]
+%safemode [ON/OFF]
 
-rembedmode [ON/OFF]
+%embedmode [ON/OFF]
 
-rgray [Image]
+%gray [Image]
 
-rhalftoken [Mention]
+%halftoken [Mention]
 
-rroblox [Mention]
+%roblox [Mention]
 
-rimage [Text]
+%image [Text]
 
-rascii [Text]
+%ascii [Text]
 
-rfancy [Text]
+%fancy [Text]
 
-rbold [Text]
+%bold [Text]
 
-rspeak [Text]
+%speak [Text]
 
-rlyrics [Song Name]
+%lyrics [Song Name]
 
-rgiveaway-snipe [ON/OFF]
+%giveaway-snipe [ON/OFF]
 
-rnitro-snipe [ON/OFF]
+%nitro-snipe [ON/OFF]
 
-remail [toggle/generate/remove]
+%email [toggle/generate/remove]
 
-ruinfo [Mention]
+%uinfo [Mention]
 
-rcopydiscord
+%copydiscord
 
-rembed [Text]
+%embed [Text]
 
-rsteal-pfp [Mention]
+%steal-pfp [Mention]
 
-rsuicide
+%suicide
 
-rplaying [Text]
+%playing [Text]
 
-rstreaming [Text]
+%streaming [Text]
 
-rlistening [Text]
+%listening [Text]
 
-rwatching [Text]
+%watching [Text]
 
-rtrap
+%trap
 
-rsolo
+%solo
 
-rhentai
+%hentai
 
-rkiss [Mention]
+%kiss [Mention]
 
-rhug [Mention]
+%hug [Mention]
 
-rfuck [Mention]
+%fuck [Mention]
 
-rpp [Mention]
+%pp [Mention]
 
-rrandomnum
+%randomnum
 
-rbravery
+%bravery
 
-rbrilliance
+%brilliance
 
-rbalance
+%balance
 
-reval [Code]
+%eval [Code]
 
-rservroles
+%servroles
 
-rcontactme
+%contactme
 
-rmassban
+%massban
 
-rmassunban
+%massunban
 
-rmassmute
+%massmute
 
-rmassunmute
+%massunmute
 
-rmasskick
+%masskick
